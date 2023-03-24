@@ -70,7 +70,7 @@ body a:visited {
 /*  Home   inicio  */
 .home{
     display: flex;
-    background: url(/projectPortifolio2/assets/img/Group\ 13.svg) no-repeat;
+    background: url(/projectPortifolio2/assets/img/backgroundFinal.svg) no-repeat;
     background-size: cover;
     background-position: center;
     height: 100vh;
