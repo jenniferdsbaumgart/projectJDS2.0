@@ -192,9 +192,6 @@ section .title::after{
 
 /*  sessão sobre  */
 
-.about .title::after{
-    content: "Quem sou eu";
-}
 .about .about-content .left{
     width: 45%;
 }
@@ -245,11 +242,6 @@ section .title::after{
 .teams .title::before{
     background: #FFDEE7;
 }
-.services .title::after,
-.teams .title::after{
-    background: #111;
-    content: "que conquistei";
-}
 .services .serv-content .card{
     width: calc(33% - 20px);
     background: #222;
@@ -284,9 +276,6 @@ section .title::after{
     margin: 10px 0 7px 0;
 }
 /*  sessão especialidades  */
-.skills .title::after{
-    content: "que aprendi";
-}
 .skills .skills-content .column{
     width: calc(50% - 30px);
 }
@@ -363,9 +352,6 @@ section .title::after{
     width: 75%;
 }
 /*  sessão equipe  */
-.teams .title::after{
-    content: "feitos por mim";
-}
 .teams .carousel .card{
     background: #222;
     border-radius: 6px;
@@ -424,9 +410,6 @@ section .title::after{
     background: #D6417C!important;
 }
 /*  sessão Contato  */
-.contact .title::after{
-    content: "Fale comigo";
-}
 .contact .contact-content .column{
     width: calc(50% - 30px);
 }
