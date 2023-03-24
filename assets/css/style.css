@@ -48,6 +48,7 @@ body a:visited {
     font-weight: 500;
 }
 .navbar img{
+  height: 20px;
   opacity: 0.6;
 }
 .navbar .menu li{
